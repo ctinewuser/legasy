@@ -1,0 +1,34 @@
+[05-Aug-2021 08:31:11 America/Chicago] PHP Warning:  Unterminated comment starting line 4181 in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 4181
+[11-Aug-2021 02:08:19 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::approve_user() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 32
+[11-Aug-2021 02:08:23 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::approve_user() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 32
+[13-Aug-2021 04:49:20 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::aboutUs() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 2664
+[13-Aug-2021 04:49:41 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::aboutUs() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 2664
+[13-Aug-2021 04:49:45 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::aboutUs() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 2664
+[13-Aug-2021 04:49:45 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::aboutUs() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 2664
+[13-Aug-2021 04:50:26 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::aboutUs() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 2664
+[13-Aug-2021 04:53:10 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::aboutUs() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 2664
+[13-Aug-2021 04:53:15 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::aboutUs() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 2664
+[13-Aug-2021 04:53:20 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::aboutUs() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 2664
+[13-Aug-2021 04:53:32 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::aboutUs() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 2664
+[13-Aug-2021 04:53:37 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::aboutUs() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 2664
+[13-Aug-2021 04:56:51 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::aboutUs() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 2663
+[13-Aug-2021 05:12:04 America/Chicago] PHP Fatal error:  Cannot redeclare Api::privacy_policy() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/api/controllers/Api.php on line 2935
+[13-Aug-2021 05:12:36 America/Chicago] PHP Fatal error:  Cannot redeclare Api::privacy_policy() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/api/controllers/Api.php on line 2935
+[13-Aug-2021 05:13:21 America/Chicago] PHP Fatal error:  Cannot redeclare Api::privacy_policy() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/api/controllers/Api.php on line 2935
+[13-Aug-2021 05:13:44 America/Chicago] PHP Fatal error:  Cannot redeclare Api::privacy_policy() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/api/controllers/Api.php on line 2935
+[18-Aug-2021 07:26:16 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::unblock_user() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 5209
+[18-Aug-2021 07:26:19 America/Chicago] PHP Fatal error:  Cannot redeclare Admin::unblock_user() in /home3/ctinf0eg/public_html/CTCC/artist_army/application/modules/admin/controllers/Admin.php on line 5209
+[06-Sep-2021 04:25:45 America/Chicago] PHP Fatal error:  Cannot redeclare Api2::newsfeed_list() in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api2.php on line 1610
+[06-Sep-2021 04:25:46 America/Chicago] PHP Fatal error:  Cannot redeclare Api2::newsfeed_list() in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api2.php on line 1610
+[06-Sep-2021 04:34:03 America/Chicago] PHP Fatal error:  Cannot redeclare Api2::newsfeed_list() in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api2.php on line 1610
+[06-Sep-2021 04:34:07 America/Chicago] PHP Fatal error:  Cannot redeclare Api2::newsfeed_list() in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api2.php on line 1610
+[14-Sep-2021 02:12:24 America/Chicago] PHP Fatal error:  Only variables can be passed by reference in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api.php on line 1162
+[14-Sep-2021 02:12:25 America/Chicago] PHP Fatal error:  Only variables can be passed by reference in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api.php on line 1162
+[14-Sep-2021 02:12:26 America/Chicago] PHP Fatal error:  Only variables can be passed by reference in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api.php on line 1162
+[14-Sep-2021 02:12:55 America/Chicago] PHP Fatal error:  Only variables can be passed by reference in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api.php on line 1162
+[24-Sep-2021 03:07:22 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api.php on line 955
+[24-Sep-2021 03:07:24 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api.php on line 955
+[24-Sep-2021 03:08:54 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api.php on line 955
+[24-Sep-2021 03:08:54 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api.php on line 955
+[24-Sep-2021 03:12:21 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api.php on line 955
+[08-Oct-2021 02:55:30 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/ctinf0eg/public_html/CTCC/legacy/application/modules/api/controllers/Api.php on line 1285
